@@ -1,5 +1,7 @@
 # HORISEON Code Refraction
 
+## Live url: https://pfizzz.github.io/Horiseon/
+
 ## Accesibility updates:
 
 * Added page title.
@@ -10,7 +12,7 @@
 
 * Consolidated numerous CSS classes and selectors to streamline coding for future updates.
 * Significantly reduced size and complexity of style sheet.
-* Renamed h elements so they are numerically appropriate in html.
+* Renamed h elements so they are ordered appropriately within the html.
 
 ## Bug fixes:
 
