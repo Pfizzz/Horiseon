@@ -1,6 +1,7 @@
 # HORISEON Code Refraction
 
 ## Live url: https://pfizzz.github.io/Horiseon/
+![image](https://github.com/Pfizzz/Horiseon/blob/main/assets/images/chellenge-ss.png)
 
 ## Accesibility updates:
 
