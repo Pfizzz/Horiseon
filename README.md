@@ -1,4 +1,4 @@
-# HORISEON Code Refraction
+# HORISEON Code Refaction
 
 ## Live url: https://pfizzz.github.io/Horiseon/
 ![image](https://github.com/Pfizzz/Horiseon/blob/main/assets/images/chellenge-ss.png)
@@ -9,7 +9,7 @@
 * Replaced numerous div elements with appropriate semantic elements to enable better browser accessibility.
 * Added necessary alt tags to critical images while leaving icons alone.
 
-## Code Refraction:
+## Code Refaction:
 
 * Consolidated numerous CSS classes and selectors to streamline coding for future updates.
 * Significantly reduced size and complexity of style sheet.
